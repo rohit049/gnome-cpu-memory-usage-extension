@@ -1,0 +1,13 @@
+{
+    "name": "CPU and Memory Usage Extension",
+    "description": "Shows CPU and memory usage on the top right of the status bar.",
+    "uuid": "gnome-cpu-memory-usage-extension@rohit049",
+    "shell-version": [
+        "46",
+        "47",
+        "48",
+        "49"
+    ],
+    "url": "https://github.com/rohit049/gnome-cpu-memory-usage-extension",
+    "version": "1.0"
+}
